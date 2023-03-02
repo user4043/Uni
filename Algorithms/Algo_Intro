@@ -1,0 +1,15 @@
+## Getting familiar with the subject ##
+
+-Coding language for this subject: C++
+-STL library will be used in the last assignment, so get familiar with it.
+-Focus on how to use vectors, lists, priority queues and range-based loops.
+
+Recursion --Needed in week 2
+    many algorithms are recursive 
+
+Basic Sorting Algorithms --Needed in week 3-4
+    Know: the general idea and the running time of insertion sort, selection sort and binary search
+
+Heaps --Needed in week 11-13
+   Know: what a priority queue is, what a heap is and the running time of the insert and remove operations
+   
